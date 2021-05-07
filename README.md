@@ -23,4 +23,4 @@ The provided Twitter archive lacked some useful information: retweet count and f
 
 Udacity also provided a link to image_predictions.tsv which I downloaded programatically using the Requests library.
 
-> Eslam Aboushashaa
+> Eslam Abou-shashaa
